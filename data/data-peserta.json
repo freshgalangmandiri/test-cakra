@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Ahmad Fauzi",
+    "address": "Jl. Malioboro No. 12, Yogyakarta",
+    "gender": "Laki-laki",
+    "company": "PT Nusantara Teknologi"
+  },
+  {
+    "name": "Siti Rahmawati",
+    "address": "Jl. Sudirman No. 45, Jakarta Pusat",
+    "gender": "Perempuan",
+    "company": "PT Global Solusi Digital"
+  },
+  {
+    "address": "Jl. Slamet Riyadi No. 78, Solo",
+    "name": "Joko Susilo",
+    "gender": "Laki-laki",
+    "company": "PT Solo Bersinar"
+  },
+  {
+    "address": "Jl. Malioboro No. 12, Yogyakarta",
+    "name": "Ahmad Fauzi",
+    "gender": "Laki-laki",
+    "company": "PT Nusantara Teknologi"
+  },
+  {
+    "name": "Budi Santoso",
+    "address": "Jl. Pemuda No. 88, Semarang",
+    "gender": "Laki-laki",
+    "company": "CV Maju Jaya Abadi"
+  },
+  {
+    "name": "Dewi Lestari",
+    "address": "Jl. Asia Afrika No. 10, Bandung",
+    "gender": "Perempuan",
+    "company": "PT Kreasi Media Nusantara"
+  },
+  {
+    "name": "Eko Prasetyo",
+    "address": "Jl. Tunjungan No. 5, Surabaya",
+    "gender": "Laki-laki",
+    "company": "PT Graha Informatika"
+  },
+  {
+    "name": "Rina Wijayanti",
+    "address": "Jl. Gajah Mada No. 22, Denpasar",
+    "gender": "Perempuan",
+    "company": "PT Bali Cybertech"
+  },
+  {
+    "name": "Joko Susilo",
+    "address": "Jl. Slamet Riyadi No. 78, Solo",
+    "gender": "Laki-laki",
+    "company": "PT Solo Bersinar"
+  },
+  {
+    "name": "Sri Wahyuni",
+    "address": "Jl. Diponegoro No. 19, Medan",
+    "gender": "Perempuan",
+    "company": "PT Sumatra Mandiri"
+  },
+  {
+    "name": "Reza Pahlevi",
+    "address": "Jl. Veteran No. 50, Banjarmasin",
+    "gender": "Laki-laki",
+    "company": "PT Borneo Perkasa"
+  },
+  {
+    "name": "Hadi Kusuma",
+    "address": "Jl. Ahmad Yani No. 33, Malang",
+    "gender": "Laki-laki",
+    "company": "PT Arema Digital"
+  },
+  {
+    "name": "Maya Puspita",
+    "address": "Jl. R.E. Martadinata No. 14, Bogor",
+    "gender": "Perempuan",
+    "company": "PT Bogor Indah"
+  },
+  {
+    "gender": "Perempuan",
+    "address": "Jl. Sudirman No. 45, Jakarta Pusat",
+    "name": "Siti Rahmawati",
+    "company": "PT Global Solusi Digital"
+  },
+  {
+    "name": "Doni Setiawan",
+    "address": "Jl. Pahlawan No. 4, Palembang",
+    "gender": "Laki-laki",
+    "company": "PT Sriwijaya Energi"
+  },
+  {
+    "name": "Fitri Handayani",
+    "address": "Jl. Teuku Umar No. 9, Banda Aceh",
+    "gender": "Perempuan",
+    "company": "PT Aceh Tech Solusi"
+  },
+  {
+    "name": "Reza Pahlevi",
+    "address": "Jl. Veteran No. 50, Banjarmasin",
+    "gender": "Laki-laki",
+    "company": "PT Borneo Perkasa"
+  },
+  {
+    "name": "Lestari Puji",
+    "address": "Jl. Sudirman No. 11, Pekanbaru",
+    "gender": "Perempuan",
+    "company": "PT Riau Mandiri"
+  },
+  {
+    "gender": "Perempuan",
+    "name": "Maya Puspita",
+    "address": "Jl. R.E. Martadinata No. 14, Bogor",
+    "company": "PT Bogor Indah"
+  },
+  {
+    "name": "Agus Setiawan",
+    "address": "Jl. Urip Sumoharjo No. 8, Makassar",
+    "gender": "Laki-laki",
+    "company": "PT Celebes Informatika"
+  }
+]
